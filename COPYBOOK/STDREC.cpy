@@ -1,0 +1,1 @@
+       01 STDNAME    PIC  A(50) VALUE 'MAHESH'.
